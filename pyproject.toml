@@ -3,7 +3,7 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 [project]
 name = "mspix"
-version = "1.0.3"
+version = "1.0.4"
 authors = [
   {name="Kasper Krijnen", email="kasperkrijnen@gmail.com"},
   {name="Ian Anthony", email="i.anthony@maastrichtuniversity.nl"}
